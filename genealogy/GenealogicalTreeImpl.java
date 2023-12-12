@@ -1,6 +1,7 @@
 package genealogy;
 
 import java.util.*;
+import Dog.Dog;
 
 public class GenealogicalTreeImpl<T> implements GenealogicalTree<T> {
     private List<T> items;
